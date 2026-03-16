@@ -1,12 +1,24 @@
+aid: communication-protocols
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/communication-protocols/refs/heads/main/apis.yml
 name: Communication Protocols
-description: Communication Protocols is a networking technology or protocol that facilitates
-  communication, data transfer, or traffic management between systems and devices.
-  It enables reliable, efficient, and secure connectivity across local and distributed
-  network environments.
-url: null
 tags:
-- Communication Protocols
-created: '2025'
-modified: '2025'
+  - Communication Protocols
+  - Networking
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2025-01-01'
+modified: '2026-03-16'
+position: Consumer
+description: >-
+  Communication Protocols is a networking technology or protocol that facilitates
+  communication, data transfer, or traffic management between systems and devices.
+  It enables reliable, efficient, and secure connectivity across local and
+  distributed network environments.
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+specificationVersion: '0.19'
