@@ -2,7 +2,7 @@ aid: communication-protocols
 url: >-
   https://raw.githubusercontent.com/api-evangelist/communication-protocols/refs/heads/main/apis.yml
 name: Communication Protocols
-x-type: topic
+kind: topic
 description: >-
   Communication protocols are systems of rules that allow two or more entities
   in a networked system to exchange information. Modern API platforms rely on
@@ -87,7 +87,7 @@ apis:
         url: https://grpc.io/docs/
       - type: Specification
         url: https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md
-      - type: GitHub Organization
+      - type: GitHubOrganization
         url: https://github.com/grpc
     x-features:
       - HTTP/2 multiplexed transport with Protobuf payloads
