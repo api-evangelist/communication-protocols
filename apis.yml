@@ -283,6 +283,10 @@ apis:
   - Live status and activity feeds
   - Server-pushed dashboards
 common:
+- type: VulnerabilityDisclosure
+  url: security/communication-protocols-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/communication-protocols-domain-security.yml
 - type: Documentation
   url: https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml
 - type: Reference
