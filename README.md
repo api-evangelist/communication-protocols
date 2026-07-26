@@ -15,10 +15,6 @@ Communication protocols are systems of rules that allow two or more entities in 
 
 ## APIs
 
-### Hypertext Transfer Protocol (HTTP)
-The application layer protocol that powers the World Wide Web and the majority of REST and HTTP APIs. HTTP/1.1, HTTP/2, and HTTP/3 over QUIC are defined by IETF.
-
-**Human URL:** [https://httpwg.org/specs/](https://httpwg.org/specs/)
 
 #### Tags
 - Application Protocol, HTTP, IETF, REST, Web
