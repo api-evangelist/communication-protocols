@@ -26,6 +26,16 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/communication-protocols.png
 tags:
+  - Application Protocols
+  - Communication Protocols
+  - Internet
+  - IETF
+  - Networking
+  - Real-Time
+  - Standards
+  - Transport
+  - Web
+tags_raw:
   - APIs
   - Application Protocols
   - Communication Protocols
@@ -83,6 +93,11 @@ apis:
     humanURL: https://graphql.org/
     baseURL: https://graphql.org
     tags:
+      - GraphQL
+      - HTTP
+      - Schema
+      - Subscription
+    tags_raw:
       - API
       - GraphQL
       - HTTP
@@ -151,6 +166,11 @@ apis:
       - IoT
       - Lightweight
       - OASIS
+      - Pub-Sub
+    tags_raw:
+      - IoT
+      - Lightweight
+      - OASIS
       - Pub/Sub
     properties:
       - type: Specification
@@ -208,6 +228,11 @@ apis:
     humanURL: https://webhooks.fyi/
     baseURL: https://webhooks.fyi
     tags:
+      - Async
+      - Event
+      - HTTP
+      - Push
+    tags_raw:
       - Async
       - Events
       - HTTP
