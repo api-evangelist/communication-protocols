@@ -12,6 +12,17 @@ description: >-
   the most relevant standards bodies (IETF, W3C, IEEE, ITU, ISO), the most
   widely deployed protocols at each layer, and the way protocol choice shapes
   API design, performance, security, and interoperability.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
