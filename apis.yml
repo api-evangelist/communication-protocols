@@ -177,7 +177,7 @@ apis:
       - IoT
       - Lightweight
       - OASIS
-      - Pub-Sub
+      - Pub/Sub
     tags_raw:
       - IoT
       - Lightweight
